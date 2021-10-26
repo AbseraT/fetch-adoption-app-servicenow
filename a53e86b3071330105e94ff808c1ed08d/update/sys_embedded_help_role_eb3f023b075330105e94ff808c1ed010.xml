@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_709866_fetch.dogs_user" name="x_709866_fetch.dogs_user">6b3f8af7075330105e94ff808c1ed05e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-26 14:59:02</sys_created_on>
+        <sys_id>eb3f023b075330105e94ff808c1ed010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6b3f8af7075330105e94ff808c1ed05e</sys_name>
+        <sys_package display_value="Fetch" source="x_709866_fetch">a53e86b3071330105e94ff808c1ed08d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fetch">a53e86b3071330105e94ff808c1ed08d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_eb3f023b075330105e94ff808c1ed010</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-26 14:59:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
